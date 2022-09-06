@@ -29,14 +29,7 @@
             required><%=camp.description%></textarea>
           <div class="valid-feedback">Looks good!</div>
         </div>
-        <div class="mb-3">
-          <div class="custom-file">
-            <label for="image" class="form-label">Add more image(s)</label>
-              <input type="file" class="form-control form-file-input" id="image" name="image" multiple>
-              <label class="form-file-label" for="image">
-                  <span class="form-file-text custom-file-label"></span>
-              </label>
-          </div>
+       
           <div class="mb-3">
             <% camp.images.forEach(function (img,i){ %>
               <img src="<%=img.thumbnail%>"  class="img-thumbnail" alt="">
