@@ -1,7 +1,7 @@
 # YelpCamp
 Yelpcamp is a Node js project created using Express framework. Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.The website can be used to add campground with 
 various campground details like Title, Location, Price of Camping,Description, Images.User can register,create campgrounds and add reviews.
-Link:-https://pacific-hollows-90749.herokuapp.com/
+Application Link:-https://pacific-hollows-90749.herokuapp.com/
 
 ## 💡Lessons Learned
 -	First full-stack web application
