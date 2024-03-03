@@ -24,7 +24,7 @@ Application Link:-https://pacific-hollows-90749.herokuapp.com/
 | ------- 	| ------ 	| ------ 	| --------		|
 |HTML5	 	|Node.js 	|Mongoose	|Heroku	  		|
 |CSS3	 	|ExpressJS	|MongoDB	|MongoDB Atlas	|
-|Bootstrap 5	|EJS	  	|.		    |Cloudflare		|
+|Bootstrap 5	|EJS	  	|.		    |Cloudinary		|
 |Javascript	|.		  	|.		    |Git	      	|
 
 ## ⚖️ Methodology
